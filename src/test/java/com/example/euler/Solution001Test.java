@@ -18,7 +18,7 @@ class Solution001Test {
 	@Test
 	void test() {
 		assertEquals(23, Solution001.sumOfMultiples(10));
-		System.out.println(Solution001.sumOfMultiples(1000));
+		System.out.println("Solution 001 = " + Solution001.sumOfMultiples(1000));
 	}
 
 }
