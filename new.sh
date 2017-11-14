@@ -2,7 +2,7 @@
 
 echo Project Euler - New Solution
 echo
-echo Enter number (e.g., 001): 
+echo Enter number:
 read N
 echo Enter description, and ctrl-D when done:
 DESC=$(cat)

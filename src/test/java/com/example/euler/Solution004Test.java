@@ -18,7 +18,7 @@ class Solution004Test {
 	@Test
 	void test() {
 		assertEquals(9009, Solution004.findLargestPalindrome(2));
-		System.out.println("Solution 004 = " + Solution004.findLargestPalindrome(3));
+//		System.out.println("Solution 004 = " + Solution004.findLargestPalindrome(3));
 	}
 
 }

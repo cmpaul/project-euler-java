@@ -23,7 +23,7 @@ class Solution002Test {
 	@Test
 	void test() {
 		assertEquals(Arrays.asList(1L, 2L, 3L, 5L, 8L), Solution002.getFibSequence(10));
-		System.out.println("Solution 002 = " + Solution002.getEvenFibonacciSum());
+//		System.out.println("Solution 002 = " + Solution002.getEvenFibonacciSum());
 	}
 
 }

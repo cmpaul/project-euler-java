@@ -17,7 +17,7 @@ class Solution003Test {
 	@Test
 	void test() {
 		assertEquals(29L, Solution003.getLargestPrimeFactor(13195L));
-		System.out.println("Solution 003 = " + Solution003.getLargestPrimeFactor(600851475143L));
+//		System.out.println("Solution 003 = " + Solution003.getLargestPrimeFactor(600851475143L));
 	}
 
 }
